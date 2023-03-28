@@ -2,7 +2,7 @@
 
 ### Metadata
 
-Source: Leetcode <br/>
+Source: [Leetcode](https://github.com/helloanoop/codesmash/blob/main/1-same-tree.md) <br/>
 Solved on: `28 March 2023`
 
 
