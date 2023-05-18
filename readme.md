@@ -6,6 +6,7 @@ A log of coding problems that I have solved
 2. [Maximum Depth of Binary Tree](2-maximum-depth-of-binary-tree.md)
 3. [Integer to Roman](3-integer-to-roman.md)
 4. [Unique items in Array](4-unqiue-item-in-array.md)
+4. [Add Two Numbers stored as Linked Lists](5-add-two-numbers-linked-list.md)
 
 ### License
 [MIT](license.md)

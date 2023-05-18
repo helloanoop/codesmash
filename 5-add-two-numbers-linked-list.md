@@ -86,7 +86,8 @@ var addTwoNumbers = function(l1, l2) {
   }
 
   return list;
-};
+};cd ../
+cd code 
 ```
 
 ### ChatGPT Solution
