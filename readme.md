@@ -8,6 +8,7 @@ A log of coding problems that I have solved
 4. [Unique items in Array](4-unqiue-item-in-array.md)
 5. [Add Two Numbers stored as Linked Lists](5-add-two-numbers-linked-list.md)
 6. [Symmetric Tree](6-symmetric-tree.md)
+7. [Tree Level Order Traversal](7-tree-level-order-traversal.md)
 
 ### License
 [MIT](license.md)
