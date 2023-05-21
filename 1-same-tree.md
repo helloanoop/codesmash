@@ -5,8 +5,6 @@
 Source: [Leetcode](https://leetcode.com/problems/same-tree/description/) <br/>
 Solved on: `28 March 2023`
 
-
-
 ### Problem
 Given the roots of two binary trees `p` and `q`, write a function to check if they are the same or not.
 
