@@ -9,6 +9,7 @@ A log of coding problems that I have solved
 5. [Add Two Numbers stored as Linked Lists](5-add-two-numbers-linked-list.md)
 6. [Symmetric Tree](6-symmetric-tree.md)
 7. [Tree Level Order Traversal](7-tree-level-order-traversal.md)
+8. [Vertical Order Traversal of a Binary Tree](8-vertical-order-traversal-of-a-binary-tree.md)
 
 ### License
 [MIT](license.md)
