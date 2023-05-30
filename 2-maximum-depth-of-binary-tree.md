@@ -5,8 +5,6 @@
 Source: [Leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) <br/>
 Solved on: `6 April 2023`
 
-
-
 ### Problem
 Given the `root` of a binary tree, return its maximum depth.
 
