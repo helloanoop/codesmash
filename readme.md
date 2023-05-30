@@ -12,6 +12,7 @@ A log of coding problems that I have solved
 8. [Vertical Order Traversal of a Binary Tree](8-vertical-order-traversal-of-a-binary-tree.md)
 9. [Minimum Depth of Binary Tree](9-minimum-depth-of-binary-tree.md)
 10. [Binary Tree Inorder Traversal](10-binary-tree-inorder-traversal.md)
+11. [Validate Binary Search Tree](11-validate-binary-search-tree.md)
 
 ### License
 [MIT](license.md)
