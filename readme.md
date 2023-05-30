@@ -1,4 +1,6 @@
-# codesmash
+# I have stopped maintaing this, instead I am now documenting stuff [here](https://github.com/helloanoop/data-structures-algorithms-book)
+
+## codesmash
 
 A log of coding problems that I have solved
 
