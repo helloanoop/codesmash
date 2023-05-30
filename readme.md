@@ -10,6 +10,7 @@ A log of coding problems that I have solved
 6. [Symmetric Tree](6-symmetric-tree.md)
 7. [Tree Level Order Traversal](7-tree-level-order-traversal.md)
 8. [Vertical Order Traversal of a Binary Tree](8-vertical-order-traversal-of-a-binary-tree.md)
+9. [Minimum Depth of Binary Tree](9-minimum-depth-of-binary-tree.md)
 
 ### License
 [MIT](license.md)
